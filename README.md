@@ -27,4 +27,4 @@ No build step. Clone the repo and open `E-project Star Classes/index.html` in yo
 
 ---
 
-👤 **Rao Muhammad Hanzala** · [GitHub](https://github.com/RaoHanzala19) · raohanzala457@gmail.com
+👤 **Rao Muhammad Hanzala** · [GitHub](https://github.com/RaoHanzala19) · raohanzala513@gmail.com
